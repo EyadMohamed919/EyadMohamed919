@@ -58,6 +58,12 @@
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
 </p>
 
+## Connect With Me
+
+<p align="center">
+  
+  <img src="https://images.credly.com/size/680x680/images/62db59ef-19f9-4652-a00c-7582baee8177/blob" alt="LinkedIn" width="120" height="120" />
+</p>
 
 ## Connect With Me
 

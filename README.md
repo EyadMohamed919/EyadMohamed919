@@ -58,7 +58,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
 </p>
 
-## Connect With Me
+## Certificates
 
 <p align="center">
   

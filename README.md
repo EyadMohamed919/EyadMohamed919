@@ -63,8 +63,8 @@
 <p align="center">
   
   <img src="https://images.credly.com/size/680x680/images/62db59ef-19f9-4652-a00c-7582baee8177/blob" width="120" height="120" />
-  <img src="https://images.credly.com/size/680x680/images/62db59ef-19f9-4652-a00c-7582baee8177/blob" width="120" height="120" />
-  <img src="https://images.credly.com/size/680x680/images/62db59ef-19f9-4652-a00c-7582baee8177/blob" width="120" height="120" />
+  <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="120" height="120" />
+  <img src="https://images.credly.com/images/0c1c6eed-818c-4f78-bfaa-7ea8704c863a/image.png" width="120" height="120" />
 </p>
 
 ## Connect With Me

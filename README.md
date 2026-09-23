@@ -62,14 +62,15 @@
 
 <p align="center">
   
-  <img src="https://images.credly.com/size/680x680/images/62db59ef-19f9-4652-a00c-7582baee8177/blob" alt="LinkedIn" width="120" height="120" />
+  <img src="https://images.credly.com/size/680x680/images/62db59ef-19f9-4652-a00c-7582baee8177/blob" width="120" height="120" />
+  <img src="https://images.credly.com/size/680x680/images/62db59ef-19f9-4652-a00c-7582baee8177/blob" width="120" height="120" />
+  <img src="https://images.credly.com/size/680x680/images/62db59ef-19f9-4652-a00c-7582baee8177/blob" width="120" height="120" />
 </p>
 
 ## Connect With Me
 
 <p align="center">
   
-  <img src="https://images.credly.com/size/680x680/images/62db59ef-19f9-4652-a00c-7582baee8177/blob" alt="LinkedIn" width="34" height="34" />
   <a href="https://www.linkedin.com/in/eyad-mahmoud-a53109318/"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" alt="LinkedIn" width="34" height="34" /></a>
 </p>
 
